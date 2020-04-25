@@ -10,7 +10,7 @@
 - ListView
 ```
 
-### Setting up firebase account in android studio
+### Setting up firebase account
 * create a new firebase project
 * setup for android
 ```
@@ -27,6 +27,18 @@
 - click on runner
 - copy bundle identifier and paste in firebase ios bundle id
 - download GoogleService-Info.plist. Paste it under Runner->Runner
+```
+* Adding firebase dependencies
+```
+- Firebase auth
+- Firebase core
+- cloud firestore
+
+(only for ios): 
+On Terminal
+$ pod repo update
+$ sudo gem install cocoapods
+$ pod setup
 ```
 
 
