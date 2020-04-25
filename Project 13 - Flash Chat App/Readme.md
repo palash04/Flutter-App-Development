@@ -62,6 +62,7 @@ $ pod setup
 * [Firebase Core Package for Flutter](https://pub.dartlang.org/packages/firebase_core)
 * [Firebase Auth Package for Flutter](https://pub.dartlang.org/packages/firebase_auth)
 * [Cloud Firestore Package for Flutter](https://pub.dartlang.org/packages/cloud_firestore)
+* [Firebase Storage Package for Flutter](https://pub.dev/packages/firebase_storage)
 * [Showing a Spinner: The Modal Progress HUD](https://pub.dartlang.org/packages/modal_progress_hud)
 * [Firebase Documentation](https://firebase.google.com/docs/)
 * [ListView Class Documentation](https://docs.flutter.io/flutter/widgets/ListView-class.html)
