@@ -34,6 +34,15 @@
 - Firebase core
 - cloud firestore
 
+(in app level build.gradle) - 
+defaultConfig {
+        ...
+        minSdkVersion 15 
+        targetSdkVersion 28
+        multiDexEnabled true // add this line
+}
+
+
 (only for ios): 
 On Terminal
 $ pod repo update
